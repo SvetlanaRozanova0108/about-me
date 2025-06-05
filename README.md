@@ -3,7 +3,21 @@
 Выпускник ВШЭ(Бизнес-Информатика)'16 и Яндекс.Практикума(java-разработчик)'25
 
 💻 Мой стек:
-Java Core Spring Fraemwork Spring Boot PostreSQL Hibernate RestAPI Apache Maven Docker JUnit Mockito Postman Git Apache Kafka gRPC
+Языки: Java, SQL
+
+Фреймворки: Spring, Spring Boot, Spring Cloud, Spring Data, Spring Security, Hibernate ORM
+
+Базы данных: PostgreSQL
+
+Инструменты:
+
+Сборка: Maven
+Тестирование: JUnit5, Mockito
+API/Документация: Postman, Swagger
+Контейнеры: Docker
+Контроль версий: Git
+Интеграция: Kafka, gRPC, Avro, Protobuf
+IDE: IntelliJ IDEA
 
 Примеры реализованных мной проектов:
 
