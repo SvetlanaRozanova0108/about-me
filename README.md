@@ -28,11 +28,11 @@ Filmorate - Backend для онлайн-кинотеатра. Реализова
 Shareit - Backend для поиска вещей с функционалом регистрации, аренды, запроса на создание вещи.
 Стек: Java, Spring Boot, PostgreSQL, JPA, Hibernate, Maven, Docker.
 
-Explore With Me - Backend позволяет пользователям делиться информацией об интересных событиях и находить компанию для участия в них.
+Explore With Me - Backend афиша позволяет пользователям делиться информацией об интересных событиях и находить компанию для участия в них.
 Стек: Java, Spring Boot, SQL, PostgreSQL, JPA, Hibernate, Maven, Docker.
 
-Plus-smart-home-tech - Backend система для сбора и анализа данных от датчиков умного дома, определить, какие сценарии умного дома необходимо запустить.
+Smart Home Technologies - Backend система для сбора и анализа данных от датчиков умного дома, определить, какие сценарии умного дома необходимо запустить.
 Стек: Java, Spring Boot, SQL, PostgreSQL, JPA, Hibernate, Maven, Docker, Spring Cloud, Config Server, Eureka, Gateway.
 
-Java-plus-graduation (усовершенствование Explore With Me) — Backend афиша позволяет предложить какое-либо событие от выставки до похода в кино, и собрать компанию для участия в нём на основе интересов пользователей.
+Java Plus Graduation (усовершенствование Explore With Me) — Backend афиша позволяет предложить какое-либо событие от выставки до похода в кино, и собрать компанию для участия в нём на основе интересов пользователей.
 Стек: Java, Spring Boot, SQL, PostgreSQL, JPA, Hibernate, Maven, Docker, Spring Cloud, Config Server, Eureka, Gateway.
