@@ -3,16 +3,17 @@
 Выпускница ВШЭ(Бизнес-Информатика)'16 и Яндекс.Практикум(Java-разработчик)'25
 
 💻 Мой стек:
-Языки: Java, SQL
-Фреймворки: Spring, Spring Boot, Spring Cloud(Config, Eureka, Gateway), Spring Data, Spring Security, Hibernate ORM
-Базы данных: PostgreSQL
-DevOps: Docker, Docker Compose
-Инструменты: Maven
-Контроль версий: Git
-Тестирование: JUnit5, Mockito
-API/Документация: Postman, Swagger
-Интеграция: Kafka, gRPC, Avro, Protobuf
-IDE: IntelliJ IDEA
+
+- Языки: Java, SQL
+- Фреймворки: Spring, Spring Boot, Spring Cloud(Config, Eureka, Gateway), Spring Data, Spring Security, Hibernate ORM
+- Базы данных: PostgreSQL
+- Инструменты: Maven
+- Контроль версий: Git
+- API/Документация: Postman, Swagger
+- Тестирование: JUnit5, Mockito
+- Интеграция: Kafka, gRPC, Avro, Protobuf
+- DevOps: Docker, Docker Compose
+- IDE: IntelliJ IDEA
 
 Контакты:
 email: svetlanarozanova@live.com
