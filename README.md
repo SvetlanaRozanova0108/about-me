@@ -16,8 +16,8 @@
 - IDE: IntelliJ IDEA
 
 Контакты:
-email: svetlanarozanova@live.com
-Telegram: @SvetlanaRozanova0108
+- email: svetlanarozanova@live.com
+- Telegram: @SvetlanaRozanova0108
 
 Примеры реализованных мной проектов:
 
