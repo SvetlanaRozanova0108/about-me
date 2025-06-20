@@ -1,26 +1,24 @@
 Привет! Я Светлана!
 
-Выпускница ВШЭ(Бизнес-Информатика)'16 и Яндекс.Практикума(java-разработчик)'25
+Выпускница ВШЭ(Бизнес-Информатика)'16 и Яндекс.Практикум(Java-разработчик)'25
 
 💻 Мой стек:
 Языки: Java, SQL
-
-Фреймворки: Spring, Spring Boot, Spring Cloud, Spring Data, Spring Security, Hibernate ORM
-
+Фреймворки: Spring, Spring Boot, Spring Cloud(Config, Eureka, Gateway), Spring Data, Spring Security, Hibernate ORM
 Базы данных: PostgreSQL
+DevOps: Docker, Docker Compose
+Инструменты: Maven
+Контроль версий: Git
+Тестирование: JUnit5, Mockito
+API/Документация: Postman, Swagger
+Интеграция: Kafka, gRPC, Avro, Protobuf
+IDE: IntelliJ IDEA
 
-Инструменты:
-
-- Сборка: Maven
-- Тестирование: JUnit5, Mockito
-- API/Документация: Postman, Swagger
-- Контейнеры: Docker
-- Контроль версий: Git
-- Интеграция: Kafka, gRPC, Avro, Protobuf
-- IDE: IntelliJ IDEA
+Контакты:
+email: svetlanarozanova@live.com
+Telegram: @SvetlanaRozanova0108
 
 Примеры реализованных мной проектов:
-
 
 Filmorate - Backend для онлайн-кинотеатра. Реализован функционал оценок и отзывов пользователей, фильтра, рекомендаций, поиска.
 Стек: Java, Spring Boot, SQL, H2, JdbcTemplate, JUnit.
